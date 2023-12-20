@@ -19,3 +19,7 @@
 
 3. サーバー起動
 	```node app.js```
+
+
+https://github.com/miztnishi/weather/assets/45161913/5ebd316e-e9e7-4eb9-84aa-44d0bb6abe32
+
